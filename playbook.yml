@@ -1,0 +1,6 @@
+- name: Play the playbook
+  hosts: all
+  tasks:
+    - name: install apache
+      include_role:
+        - ../ansible-apache
