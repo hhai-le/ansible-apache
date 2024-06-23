@@ -1,2 +1,2 @@
-Update hostname via Ansible role
+Installing apache via Ansible role
 =========
